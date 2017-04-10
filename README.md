@@ -3,7 +3,7 @@
 
 # Welcome to MatlabEx project!
 
-[MatlabEx](https://github.com/Grandbrain/MatlabEx) is a set of of useful functions that are not available in the standard package. These functions are written in MATLAB language and must run in all common versions of this system.
+[MatlabEx](https://github.com/Grandbrain/MatlabEx) is a set of of useful functions that are not in the standard package. These functions are written in MATLAB language and must run in all common versions of this system.
 
 
 ## Contribute
