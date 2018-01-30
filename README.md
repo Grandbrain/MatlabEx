@@ -1,4 +1,4 @@
-[![GitHub release](https://img.shields.io/github/release/Grandbrain/MatlabEx.svg)](Grandbrain/MatlabEx/releases)
+[![GitHub release](https://img.shields.io/github/release/Grandbrain/MatlabEx.svg)](https://github.com/Grandbrain/MatlabEx/releases)
 [![GitHub issues](https://img.shields.io/github/issues/Grandbrain/MatlabEx.svg)](https://github.com/Grandbrain/MatlabEx/issues)
 [![GitHub forks](https://img.shields.io/github/forks/Grandbrain/MatlabEx.svg)](https://github.com/Grandbrain/MatlabEx/network/members)
 [![GitHub stars](https://img.shields.io/github/stars/Grandbrain/MatlabEx.svg)](https://github.com/Grandbrain/MatlabEx/stargazers)
