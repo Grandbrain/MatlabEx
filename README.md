@@ -1,5 +1,8 @@
-[![Release](https://img.shields.io/badge/Release-v1.0.0-brightgreen.svg)](https://github.com/Grandbrain/MatlabEx/releases)
-[![Licence](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/Grandbrain/MatlabEx/blob/master/LICENSE)
+[![GitHub release](https://img.shields.io/github/release/Grandbrain/MatlabEx.svg)](https://github.com/Grandbrain/MatlabEx/releases)
+[![GitHub issues](https://img.shields.io/github/issues/Grandbrain/MatlabEx.svg)](https://github.com/Grandbrain/MatlabEx/issues)
+[![GitHub forks](https://img.shields.io/github/forks/Grandbrain/MatlabEx.svg)](https://github.com/Grandbrain/MatlabEx/network/members)
+[![GitHub stars](https://img.shields.io/github/stars/Grandbrain/MatlabEx.svg)](https://github.com/Grandbrain/MatlabEx/stargazers)
+[![GitHub license](https://img.shields.io/github/license/Grandbrain/MatlabEx.svg)](https://github.com/Grandbrain/MatlabEx/blob/master/LICENSE)
 
 # Welcome to MatlabEx project!
 
